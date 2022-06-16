@@ -24,7 +24,7 @@ function App() {
 ])
   return (
     <div className="App">
-      <h1>My-Favourite-Singer</h1>
+      <h1>My Favourite Singer</h1>
       <List people={people} />
       <AddToList people={people} setPeople={setPeople} />
     </div>
